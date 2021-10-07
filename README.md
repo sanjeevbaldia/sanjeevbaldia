@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sanjeevbaldia
 - 👀 I’m interested in Linux, Cloud (AWS,Azure,GCP), DevOps Automation.
-- 🌱 I’m currently learning terraform and cloudformation (IaaC).
 - 💞️ I’m looking to collaborate on teaching automation to System, Cloud Admins and DevOps Professionals.
 - 📫 Reach me at https://github.com/sanjeevbaldia
 
